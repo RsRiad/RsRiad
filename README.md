@@ -1,17 +1,17 @@
-&lt;h1 align="center"&gt;
-  &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rawha+Siddiqi+Riad;Full-Stack+Developer;AI%2FML+Researcher;Problem+Solver" alt="Typing SVG" /&gt;
-&lt;/h1&gt;
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rawha+Siddiqi+Riad;Full-Stack+Developer;AI%2FML+Researcher;Problem+Solver" alt="Typing SVG" />
+</h1>
 
-&lt;p align="center"&gt;
-  &lt;a href="https://rsriad.dev" target="_blank"&gt;&lt;img src="https://img.shields.io/badge/Portfolio-rsriad.dev-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;a href="mailto:rsriad00@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Email-rsriad00@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;a href="https://linkedin.com/in/rsriad" target="_blank"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-RsRiad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;a href="https://github.com/RsRiad" target="_blank"&gt;&lt;img src="https://img.shields.io/badge/GitHub-RsRiad-181717?style=for-the-badge&logo=github&logoColor=white" /&gt;&lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+  <a href="https://rsriad.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-rsriad.dev-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:rsriad00@gmail.com"><img src="https://img.shields.io/badge/Email-rsriad00@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/rsriad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-RsRiad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/RsRiad" target="_blank"><img src="https://img.shields.io/badge/GitHub-RsRiad-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=RsRiad&color=3B82F6&style=flat-square" alt="Profile Views" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RsRiad&color=3B82F6&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
@@ -83,7 +83,7 @@ I'm a **Full-Stack Developer** and **AI/ML Researcher** with a strong foundation
 
 ## 📚 Research & Publications
 
-&gt; *First Author on all publications*
+> *First Author on all publications*
 
 | Title | Venue | Status | Link |
 |-------|-------|--------|------|
@@ -115,25 +115,25 @@ I'm a **Full-Stack Developer** and **AI/ML Researcher** with a strong foundation
 
 ## 📊 GitHub Stats
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=RsRiad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" height="165" /&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RsRiad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" height="165" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RsRiad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RsRiad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" height="165" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=RsRiad&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RsRiad&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-&lt;p align="center"&gt;
-  &lt;a href="https://rsriad.dev" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-rsriad.dev-3B82F6?style=for-the-badge" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+  <a href="https://rsriad.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-rsriad.dev-3B82F6?style=for-the-badge" />
+  </a>
+</p>
 
-&lt;p align="center"&gt;
-  &lt;i&gt;"Building things that matter, one commit at a time."&lt;/i&gt;
-&lt;/p&gt;
+<p align="center">
+  <i>"Building things that matter, one commit at a time."</i>
+</p>
