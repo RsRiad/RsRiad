@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rawha+Siddiqi+Riad;Full-Stack+Developer;AI%2FML+Researcher;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rawha+Siddiqi+Riad;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -17,11 +17,10 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer** and **AI/ML Researcher** with a strong foundation in competitive programming and software engineering. I recently graduated with a **BSc in Computer Science & Engineering** from American International University-Bangladesh (CGPA: 3.90/4.00), earning the **Best Thesis Poster Award** and Dean's List Honors.
+I'm a **Full-Stack Developer** with a strong foundation in software engineering and competitive programming. I hold a **BSc in Computer Science & Engineering** from American International University-Bangladesh (CGPA: 3.90/4.00), graduating with Dean's List Honors.
 
 - 🔭 Currently building scalable web applications at **SEDS Tech**
-- 🧠 Researching combinatorial optimization, online algorithms, and LLM alignment
-- 💻 Solved **600+** competitive programming problems on Codeforces, LightOJ, and other platforms
+- 💻 Experienced across the full stack — from database design to responsive UI
 - 🌐 Portfolio: **[rsriad.dev](https://rsriad.dev)**
 - 📫 Reach me: **rsriad00@gmail.com**
 
@@ -63,11 +62,6 @@ I'm a **Full-Stack Developer** and **AI/ML Researcher** with a strong foundation
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
 
-### AI & LLMs
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D4A574?style=flat-square&logo=anthropic&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
-
 ---
 
 ## 📂 Featured Projects
@@ -76,22 +70,8 @@ I'm a **Full-Stack Developer** and **AI/ML Researcher** with a strong foundation
 |---------|-----------|-------------|-------|
 | **CredoTracker** | Next.js, TypeScript, Tailwind, Supabase, Recharts, Framer Motion | Full-stack employee & intern performance management platform with role-based dashboards, real-time activity tracking, and analytics | [Live](https://credo-tracker.vercel.app) · [GitHub](https://github.com/RsRiad/credo-tracker) |
 | **GlowAura** | Next.js, Redux Toolkit, PostgreSQL, Stripe, Prisma, Neon, Clerk | Multi-vendor e-commerce platform with payments, coupons, order tracking, reviews, and real-time cart | [Live](https://glow-aura.vercel.app) · [GitHub](https://github.com/RsRiad/glow-aura) |
-| **Credosis** | Next.js, TypeScript, Tailwind CSS | Modern enterprise website for a software engineering & AI automation company with SEO optimization | [Live](https://credosis.vercel.app) · [GitHub](https://github.com/RsRiad/credosis) |
+| **Credosis** | Next.js, TypeScript, Tailwind CSS | Enterprise website for a software engineering company, built with SEO optimization | [Live](https://credosis.vercel.app) · [GitHub](https://github.com/RsRiad/credosis) |
 | **rsriad.dev** | Next.js, TypeScript, Tailwind, Framer Motion, Shadcn/UI | Personal portfolio with interactive animations, responsive layouts, dark/light themes, and SEO-friendly structure | [Live](https://rsriad.dev) · [GitHub](https://github.com/RsRiad/rsriad.dev) |
-
----
-
-## 📚 Research & Publications
-
-> *First Author on all publications*
-
-| Title | Venue | Status | Link |
-|-------|-------|--------|------|
-| **Expected Cost of Greedy Online Facility Assignment on Regular Polygons** | ISCO 2026 — 12th International Symposium on Combinatorial Optimization, Kuşadası, Türkiye | ✅ Accepted | [Link](#) |
-| **Mapping the Landscape of Machine Learning Research through Clustering** | QPAIN 2026 — International Conference on Quantitative Problems in AI & Networks, Chattogram, Bangladesh | ✅ Accepted | [DOI](#) |
-| **Scientific Paper Domain Prediction Using Classical Machine Learning Models** | QPAIN 2026 — International Conference on Quantitative Problems in AI & Networks, Chattogram, Bangladesh | ✅ Accepted | [DOI](#) |
-| **Some Greedy and Randomized Algorithms for the Online Facility Assignment Problem with Competitive Ratio and Expected Cost** | AIUB 2026 | ✅ Published | [Link](#) |
-| **Graph-Grounded Self-Alignment for Reducing Long-Form Hallucinations in LLMs** | — | 📝 Submitted | — |
 
 ---
 
@@ -108,7 +88,6 @@ I'm a **Full-Stack Developer** and **AI/ML Researcher** with a strong foundation
 
 - 🎓 **Academic Scholarship** — American International University-Bangladesh
 - 🏅 **Dean's List Honors** — Consistently recognized for academic excellence
-- 🏆 **Best Thesis Poster Award** — AIUB 2026
 - 🥇 **600+ Problems Solved** — Codeforces, LightOJ, and other online judges
 
 ---
